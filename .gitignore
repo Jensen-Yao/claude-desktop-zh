@@ -1,0 +1,21 @@
+# caches & working artifacts
+baidu_i18n_cache.json
+baidu_cache.json
+free_translate_cache.json
+skipped_strings.txt
+version.txt
+*.log
+trace.log
+cap*.log
+cap*_progress.log
+
+# user working copy of Claude resources (large, machine-specific)
+Claude/
+
+# python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
